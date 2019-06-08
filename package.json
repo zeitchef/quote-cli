@@ -1,0 +1,15 @@
+{
+  "name": "quote-cli",
+  "version": "1.0.0",
+  "description": "A random quote of the day from FavQs.com",
+  "main": "index.js",
+  "author": "Scott Voyles",
+  "license": "MIT",
+  "bin": {
+    "quote": "bin/quote"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "colors": "^1.3.3"
+  }
+}
