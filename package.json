@@ -9,7 +9,7 @@
     "quote": "bin/quote"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "colors": "^1.3.3"
   }
 }
